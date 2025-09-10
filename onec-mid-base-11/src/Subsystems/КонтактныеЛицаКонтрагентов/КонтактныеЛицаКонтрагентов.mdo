@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d16d34fc-e597-43fe-a39f-f2a9ce9c1b3c">
+  <name>КонтактныеЛицаКонтрагентов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Контактные лица контрагентов</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <content>Catalog.КЛК_Должности</content>
+  <content>Catalog.КЛК_КонтактныеЛицаКонтрагентов</content>
+  <content>Document.ЗаказПокупателя</content>
+  <content>Document.ОплатаОтПокупателя</content>
+  <content>Document.ОплатаПоставщику</content>
+  <content>Document.ПоступлениеТоваровУслуг</content>
+  <content>Document.РеализацияТоваровУслуг</content>
+  <content>CommonModule.ПодключаемыеКоманды</content>
+  <content>CommonModule.КЛК_РаботаСФормамиСервер</content>
+</mdclass:Subsystem>
