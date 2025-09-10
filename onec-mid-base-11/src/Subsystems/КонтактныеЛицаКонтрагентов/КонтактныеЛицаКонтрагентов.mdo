@@ -8,4 +8,9 @@
   <includeHelpInContents>true</includeHelpInContents>
   <content>Catalog.КЛК_Должности</content>
   <content>Catalog.КЛК_КонтактныеЛицаКонтрагентов</content>
+  <content>Document.ЗаказПокупателя</content>
+  <content>Document.ОплатаОтПокупателя</content>
+  <content>Document.ОплатаПоставщику</content>
+  <content>Document.ПоступлениеТоваровУслуг</content>
+  <content>Document.РеализацияТоваровУслуг</content>
 </mdclass:Subsystem>
