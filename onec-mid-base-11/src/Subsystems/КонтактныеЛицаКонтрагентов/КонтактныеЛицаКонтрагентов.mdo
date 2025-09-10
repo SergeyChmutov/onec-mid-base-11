@@ -13,4 +13,6 @@
   <content>Document.ОплатаПоставщику</content>
   <content>Document.ПоступлениеТоваровУслуг</content>
   <content>Document.РеализацияТоваровУслуг</content>
+  <content>CommonModule.ПодключаемыеКоманды</content>
+  <content>CommonModule.КЛК_РаботаСФормамиСервер</content>
 </mdclass:Subsystem>
