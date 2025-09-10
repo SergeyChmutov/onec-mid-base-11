@@ -6,4 +6,6 @@
     <value>Контактные лица контрагентов</value>
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
+  <content>Catalog.КЛК_Должности</content>
+  <content>Catalog.КЛК_КонтактныеЛицаКонтрагентов</content>
 </mdclass:Subsystem>
